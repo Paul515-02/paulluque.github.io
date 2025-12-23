@@ -1,49 +1,67 @@
-# Paul Junior Luque Ticona
-### Data Analyst | Ingeniero Industrial | Python & SQL
+# Hola, soy Paul Luque 👋 | Data Analyst & Industrial Engineer
 
-[LinkedIn] www.linkedin.com/in/pjlut31789545| [Email](mailto:paulluque0@gmail.com) 
+![Banner](https://via.placeholder.com/1000x200?text=Data+Analysis+%7C+Process+Automation+%7C+Business+Intelligence)
+Soy un **Data Analyst Junior** con base en Lima, Perú, con formación en **Ingeniería Industrial**. Combino mi experiencia operativa en logística con habilidades de programación para transformar datos brutos en decisiones estratégicas.
 
----
+Me especializo en crear puentes entre la operación manual y la automatización digital.
 
-## 👨‍💻 Sobre mí
-Ingeniero Industrial y Data Analyst con experiencia en logística operativa. Me especializo en transformar procesos manuales y datos complejos en soluciones automatizadas.
-
-[cite_start]He liderado proyectos que redujeron tiempos de reporte en un **50%** [cite: 17] [cite_start]y automaticé operaciones masivas en SAP integrando scripts de Python y VBA[cite: 23, 24]. [cite_start]Mi enfoque combina el entendimiento del negocio logístico con habilidades técnicas en **Python, SQL y Power BI**[cite: 7].
-
----
-
-## 🛠 Habilidades Técnicas
-* [cite_start]**Lenguajes:** Python (Pandas, NumPy, Streamlit), SQL (PostgreSQL, MySQL), VBA. [cite: 7, 21]
-* [cite_start]**Herramientas:** Power BI, Excel Avanzado, SAP GUI Scripting, GitHub. [cite: 7, 27]
-* [cite_start]**Análisis:** Data Wrangling, Forecasting, Automatización de Procesos (ETL). [cite: 8, 32]
+- 🔭 Actualmente estoy trabajando en **análisis logístico y forecasting para Dinet SA**.
+- 🌱 Estoy aprendiendo sobre **Databases for Data Scientists (University of Colorado)**.
+- 👯 Busco colaborar en proyectos de **optimización de procesos y visualización de datos**.
+- 📫 Contáctame: [paulluque0@gmail.com](mailto:paulluque0@gmail.com) | [LinkedIn](URL_DE_TU_LINKEDIN)
 
 ---
 
-## 🚀 Portafolio de Proyectos
+## 🛠 Tech Stack
 
-### 1. Aplicación Web de Trazabilidad Logística (Hasbro Account)
-**Tecnologías:** Python, Streamlit, Pandas, OpenPyXL.
-[Ver Código en GitHub](#) *(Aquí pondrás el link a la carpeta del proyecto)*
+**Lenguajes & Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Diseñé una aplicación web para centralizar la trazabilidad ("Rastrero In/Out") de la cuenta Hasbro, reemplazando el procesamiento manual de archivos.
-* **Problema:** La generación de reportes tomaba demasiado tiempo y tenía riesgo de error humano.
-* [cite_start]**Solución:** Implementé un pipeline ETL que normaliza datos del WMS y calcula factores de conversión automáticamente[cite: 18, 19].
-* [cite_start]**Resultado:** Reducción del **50%** en tiempos de generación de reportes y 100% de integridad en los datos[cite: 17, 18].
+**Data & Visualización:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 2. Automatización de Confirmación de Entregas en SAP
-**Tecnologías:** Excel VBA, SAP GUI Scripting.
-[Ver Código en GitHub](#) *(Link a la carpeta del proyecto)*
-
-Herramienta de automatización ("Bot") que interactúa directamente con la interfaz de SAP para realizar confirmaciones masivas.
-* **Problema:** El equipo logístico ingresaba confirmaciones de despacho registro por registro manualmente.
-* [cite_start]**Solución:** Script que simula la interacción del usuario para cargas en lote con manejo de errores automático[cite: 23, 25].
-* [cite_start]**Resultado:** Eliminación de tareas repetitivas y optimización del cierre operativo[cite: 26].
-
-### 3. Forecasting de Capacidad de Almacenamiento
-**Tecnologías:** Python, Estadística, Power BI.
-[Ver Código en GitHub](#) *(Link a la carpeta del proyecto)*
-
-[cite_start]Análisis estadístico para proyectar la demanda de espacio físico ($m^3$) en base a históricos de ventas[cite: 32].
-* [cite_start]**Impacto:** Generación de *insights* para la optimización de gastos y planificación de recursos a largo plazo[cite: 30, 32].
+**Herramientas & Frameworks:**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Scripting-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
+
+## 🚀 Proyectos Destacados
+
+### 📦 [Aplicación de Análisis de Inventario (Python + Streamlit)](#)
+*Agosto 2025*
+Desarrollo de una aplicación web para automatizar reportes de trazabilidad logística ("Rastrero In/Out") para la cuenta Hasbro.
+- **Impacto:** Reducción del 50% en tiempo de generación de reportes y 100% de integridad de datos.
+- **Tech:** Python, Streamlit, Pandas (ETL), OpenPyXL.
+- **Clave:** Algoritmos de *slotting* y segmentación automática de niveles de almacenamiento.
+
+### 🔄 [Automatización SAP con VBA](#)
+*Marzo 2025*
+Herramienta de "Delivery Confirmation" masiva integrando Excel con SAP ERP.
+- **Impacto:** Eliminación de entrada manual repetitiva y reducción de carga administrativa.
+- **Tech:** Excel VBA, SAP GUI Scripting.
+- **Clave:** Manejo de errores automático y reportes de estatus en tiempo real.
+
+### 📊 [Sales & Operations Dashboard](#)
+*Bootcamp TripleTen*
+Análisis integral de negocio para identificar tendencias, patrones y anomalías en ventas e inventarios.
+- **Tech:** SQL, Power BI, Python.
+- **Clave:** Data Storytelling para stakeholders.
+
+---
+
+## 💼 Experiencia Profesional
+
+**Asistente de Operaciones | Dinet SA** (Abril 2024 - Presente)
+* Desarrollo de dashboards en **Power BI** y **Excel VBA** para la cuenta Hasbro Perú.
+* Modelado de proyecciones de almacenamiento ($m^3$) usando técnicas estadísticas.
+* Estandarización de flujos EDI e integración con Copilot AI para detección de desviaciones.
+
+---
+
+⭐️ From [Paul Luque](https://github.com/TU_USUARIO)
