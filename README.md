@@ -1,7 +1,7 @@
 # Paul Junior Luque Ticona
 ### Data Analyst | Ingeniero Industrial | Python & SQL
 
-[LinkedIn](tu-link-aqui) | [Email](mailto:paulluque0@gmail.com) | [Kaggle](tu-link-aqui)
+[LinkedIn] www.linkedin.com/in/pjlut31789545| [Email](mailto:paulluque0@gmail.com) 
 
 ---
 
